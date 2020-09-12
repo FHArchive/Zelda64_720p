@@ -1,0 +1,1140 @@
+--- V4.3 ---
+- Updated several areas
+	* Death Mountain Trail
+	* Kokiri Forest (stepping stones)
+	* Dampe's Cave (walls)
+	* Lon Lon Ranch Silo (once again)
+	* Temple of Time (pedestal plateau)
+	* Goron City
+	* Zora's River
+	* Kakariko Graveyard (Dampe's Shack)
+- Updated several dungeons
+	* Forest Temple
+	* Ice Cavern
+	* Inside Ganon's Castle (Water Trial)
+- Updated characters & monsters
+	* Koume and Kotake (broomstick)
+	* Child & Adult Link's Hair (OoT)
+	* Child Link's Eyes (OoT)
+	* Dinolfos (OoT)
+- Updated several effects
+	* Missing Magic Meter bars in several areas
+	* Ocarina of Time logo flame effect
+- Updated several objects
+	* Chains
+	* Magic Plants
+	* Rupees
+- Updated interface
+	* Game Over font
+	* Button text prompts (International & Japanese)
+	* Dialogue font and kerning (thanks for sageamagoo for pointing it out!)
+	* "Visit Location" map cursor
+	* Reworked fonts at higher resolution
+	* Shopping cursor
+	* Unavailable Fairy Bow Magic Arrows icons
+- Remade logo for Ocarina of Time and Master Quest
+- Added support for Spanish Master Quest translation
+	* Intro Logo, fonts, File Select, action prompts, Game Over, icons, etc
+- Updated Randomizer
+	* Added logo (OoT)
+	* Added Select Item dungeon status fonts (OoT)
+	* D-Pad icon (OoT, MM)
+	* Missing icons (OoT)
+
+
+
+--- V4.2 ---
+- Updated several areas
+	* Roads throughout Hyrule
+	* Hyrule Field (drawbridge, mountains, trees, Market walls)
+	* Lon Lon Ranch (view from Hyrule Field, Ranch, Silo)
+	* Lake Hylia (Lake, Fishing Pond)
+	* Death Mountain (Goron City, Crater)
+	* Gerudo Valley (Valley, Fortress, Thieves' Hideout, Desert Colossus palm trees)
+	* Kokiri Forest (Lost Woods bridge, Forest Temple entrance)
+	* Temple of Time / Chamber of Sages
+	* Hyrule Castle (Castle Grounds, Castle Courtyard)
+	* Market (Bombchu Bowling Alley, Shooting Gallery)
+	* Kakariko Village (Village, Granny's Potion Shop, Windmill)
+	* Kakariko Graveyard (Graveyard, Dampe's Shack, Caves, Shadow Temple Entrance)
+- Updated several dungeons
+	* Dodongo's Cavern
+	* Forest Temple (entrance wall, boss room)
+	* Water Temple (statues)
+- Updated several objects
+	* Ice Platform
+	* Door Knob
+	* Song of Time Block
+	* Hookshot Pillar (OoT)
+	* Gerudo Blocks
+	* Key Chains for doors
+	* Golden Torches
+	* Lon Lon Boxes
+	* Kokiri Sword Sheath
+	* Keys
+	* Fishing Rod
+	* Heart Container
+- Updated several special effects
+	* Arrows
+	* Spin Attack
+- Updated several monsters
+	* Spike Blade
+	* Spike
+- Updated HUD
+ 	* Rupees and Keys (font and icon)
+	* Moved Clock icon
+	* Medallions (File Select, Quest Status)
+	* Spiritual Stone (File Select)
+	* Stray Fairy icons for Snowhead Temple and Stone Tower Temple
+- Updated Link
+	* Made tunics more bright
+	* Adult Nose
+	* Kokiri Sword (Majora's Mask)
+- Staircases, a lot of staircases throughout OoT
+- Textures for Majora's Mask for the Virtual Console
+	* Fixed Sun
+	* Dungeon Titles
+	* Snowhead Temple (entrance)
+	* Goron Link / Goron Mask
+	* Arrow effect
+- Overworld Minimaps
+- Added support for Randomizer versions of of OoT and MM
+- Texture pack now works on multiple GameID versions of OoT, MM, MQ and several rom hacks, requires Dolphin Dev build 5.0-11744
+
+
+
+--- V4.1 ---
+- Updated several characters
+	* Elegy of Emptiness - Link Statue
+	* Happy Mask Salesman
+	* Ghost Hunter / Poe Collector
+	* Anju / Cucco Lady (hair)
+	* Anju's Mother (hair)
+	* Zubora (clothes) & Gabora (helm)
+	* Carpenters (mouth)
+	* Treasure Chest Shop Gal (hair)
+	* Banker / Beggar (hair)
+	* Beaver Brothers
+	* Postman / Running Man
+	* Bombers (numbers)
+	* "Ben"
+	* Carpenters (OoT + MM)
+	* Guards (OoT + MM)
+	* Mayor
+	* Tingle
+	* Link's Mouth Expression
+	* Talon, Malon, King Zora, Mido (OoT Credits)
+- Updated several monsters
+	* Hyrulian Dinolfos
+	* Wolfos
+	* White Wolfos
+	* Armos
+	* Death Armos
+	* Eyegore
+	* Garo
+	* Gomess
+	* Nejiron
+	* Twinmold
+	* Dexihand
+	* Poe (eyes)
+	* Nejiron (eyes)
+	* Chuchu
+	* Bomchu
+- Updated several icons
+	* Deku Seeds
+	* Dungeon Map
+	* Boss Key
+	* Bottled Fairy
+	* Stone of Agony
+	* Hylian Shield
+- Updated Menu Subscreens
+	* Fixed Dungeon Map (OoT)
+	* Fixed Save (OoT)
+	* Fixed Game Over (OoT)
+	* Subscreens headers in each language
+	* Bottom Headers
+	* Dungeon Floors
+	* Z, L, R subscreen buttons
+	* Pause Menu Screens (OoT + MM)
+- Updated and fixed several areas
+	* Kakariko Graveyard
+	* Hyrule Field transparency issues
+	* Breakable Walls (ex. Dodongo's Cavern)
+	* Waterfall streaming below King Zora in Zora's Domain
+	* Water in Inside the Deku Tree
+	* Water in Grottos
+	* South Clock Town
+	* Snowhead Temple (+ JAP VC)
+	* Woodfall Temple
+	* Ikana Canyon boulders
+	* Water Temple - Dark Link Tree
+	* Lake Hylia - Big Tree
+	* Spirit Temple, Jabu-Jabu, Gerudo Training Ground (OoT Spanish)
+- Updated and fixed several objects
+	* Hookshot Tower / Plates (MM)
+	* Large Wooden Chest
+	* Large Block (Silver Gauntlets) (OoT)
+	* Giant's Mask
+- Updated several effects
+	* Fire
+	* Bomb
+	* Dying Deku Monsters
+	* Deku's spitting Deku Nuts
+- Updated languages fonts
+	* Higher quality Action Prompts (MM)
+	* Higher quality Boss Titles (MM)
+	* Higher quality Navi / Tatl prompt
+	* Included Credits / The End (OoT)
+- Included Spanish Fan-Translation for Ocarina of Time
+- Replaced Alternative Textures pack
+- Replaced Stone Tower & Stone Tower Temple
+	* International & Japanese VC
+- Fixed Clock Time spacing
+- Updated Hyrulean Mirror Shield effects
+
+--- V4.0 (Language Edition) ---
+- Added textures for the N64 Restoration Patches
+	* File Select textures
+	* New Ocarina icons
+	* New fonts for the new Ocarina icons and Troupe Leader's Mask
+	* Several Gerudo symbols (OoT v1.0)
+	* Gerudo Trainings Grounds (OoT v1.0)
+	* Mirror Shield (icons, object, light-ray)
+- Added Japanese textures
+	* Goron Form & Mask
+	* Lost Woods intro
+	* Clock Town
+	* Woodfall Temple
+	* Snowhead Temple
+	* Great Bay Temple
+	* Swamp Spider House
+	* Oceanside Spider House
+	* Mountain Village / Goron City
+	* Ikana Canyon / Graveyard
+	* Romani Ranch
+	* Skull Kid
+	* Master Quest logo title
+	* Majora's Mask logo title
+	* Several monsters
+- Added and replaced language fonts (thanks to GhostlyDark)
+	* English font textures for Ocarina of Time (once more for consistency with Majora's Mask)
+	* Higher resolution fonts (all languages)
+	* Font textures in German, French, Spanish and Japanese
+	* English PAL fonts (boss titles, etc)
+	* Replaced "Dawn of a New Day"
+	* Higher quality English fonts
+	* File Select textures in English, German, French, Spanish and Japanese
+	* File Select buttons in English, German, Spanish and Japanese
+	* Ocarina of Time and Master Quest titles (Japanese included)
+	* No Controller prompts
+- Replaced Ikana Canyon
+	* Music Box House
+	* Ancient Castle of Ikana
+	* Beneath the Well
+	* Stone Tower
+	* Ghost Hut
+	* Sakon's Hideout
+	* Secret Shrine
+	* Cave
+- Replaced Fairy Fountains
+- Added initial textures for the Dawn & Dusk romhack
+	* DD64 Disk Intro
+	* Link (shields, bracelet, hair, etc)
+	* Map
+	* Minimaps
+	* Fonts
+	* Item / Equipment icons
+	* Dawngrove Village
+- Added a missing texture for Malon
+- Replaced Palmela and her dad
+- Replaced several Button, HUD and Pause Screen icons
+- Replaced Magic Meter
+- Replaced Link's hair
+- Replaced File Select interface
+- Added Nintendo 64 boot-up text
+- Updated items & objects (thanks to GhostlyDark for pointing this out)
+	* Piece of Heart
+	* Bomb
+	* Rock
+	* Breakable Boulder
+	* Termina chest
+	* Ice Arrow
+	* Floor Switch
+	* Rusted Floor Switch
+	* Silver Eye Switch
+	* Pushable Blocks (Regular, Large, Silver Gauntlets)
+	* Hookshot Boards
+	* Desert Colossus Trees
+	* Ice blocking Zora's Domain from Lake Hylia
+	* Butterflies in Underground Cave's
+	* Grass
+	* Wooden Boxes
+	* Lon Lon Wooden Boxes
+	* Beehive's
+	* Shiekah Stones
+	* Crystal Switch
+	* Ice Pillar
+	* Gibdo Mask
+- Updated monsters (thanks to GhostlyDark for pointing this out)
+	* Guay
+	* Lizalfos
+	* Dinolfos
+	* Parasitic Tentacle
+	* Majora
+	* Gibo
+	* Redead
+	* Igos du Ikana & The King's Lackeys
+	* Stalfos
+	* Blue Bubble
+	* Skulltula / Gold Skulltula
+	* Sharp / Composer Brothers
+- Updated effects (thanks to GhostlyDark for pointing this out)
+	* Hookshot Pointer
+	* Water in Water Temple, Castle Courtyard, Chamber of Sages, Zora's Domain and Zora's Fountain
+	* Smoke surrounding Ganon's Castle
+	* Bomb Explosion
+	* Songs
+- Improved skyboxes
+	* Termina Day
+	* Termina Night
+	* Hyrule Day
+	* Hyrule Night
+	* Hyrule Dawn
+	* Hyrule Dusk
+	* Darkness Day
+	* Darkness Night
+	* Darkness Dusk
+	* Sun
+- New skyboxes
+	* Goddesses Darkness
+	* Goddesses Holy
+	* Darkness Dawn
+
+
+
+--- V3.2 (Backgrounds Edition) ---
+- Upscaled all backgrounds used in Ocarina of Time
+- Made possible by Bighead thanks to his Custom Texture Tool
+	* Market, including Drawbridge (Child Day, Child Night, Adult)
+	* Temple of Time (Child Day, Child Night, Adult)
+	* Shops (Bazaar, Potion Shop, Bombchu Shop, Kokiri Shop, Goron Shop, Zora Shop)
+	* Two houses in Kakariko Village and the Gravekeeper's Hut
+	* Four houses in Kokiri Forest
+	* Back Alley (Child Day, Child Night) and both houses
+	* Carpenters' Tent
+	* Stable
+	* Skyboxes (Ganon's Tower, Darkness Day, Darkness Night)
+	* All backgrounds are now included in the main pack and no longer available separately
+- Reworked and added missing Disc Menu texts to match proper font
+- Upscaled some missing Disc Menu textures
+- Fixed Hyrule Goron mouth textures being not correctly colored
+
+
+
+--- V3.1 ---
+- Reworked the Marine Research Lab / Lakeside Laboratory Professor
+- Reworked Morpha
+- Reworked Stallchild / Captain Keeta
+- Reworked Great Bay Temple
+- Reworked introduction with the Pirates sailing to Great Bay Temple
+- Reworked Odolwa and Gyorg
+- Replaced Bottle Icons once again
+- Reworked Giant's Sacred Realm
+- Reworked partially the Giants
+- Reworked Ice effects, mostly the ice platform from the Ice Arrows
+- Reworked Boss Titles for Gyorg and all three phases of Majora
+- Replaced a few mask icons and Stock Pot quest item icons once again
+- Replaced Gyorg boss mask quest item once again
+- Removed icons are now part of the Alternative Textures selection
+
+
+
+--- V3.0 ---
+- Adjusted textures for Link, including his eyes once again (Ocarina Child, Ocarina Adult and Majora)
+- Slightly updated the main and Woodfall area's of On The moon.
+- Reworked Zoras (including Lulu, Mikau, Evan, Japas, Tijo, Ruto, King Zora, Zora Egg, Zora Notechild)
+- Reworked Darmani, Hyrule Gorons and Darunia (to reflect the Termina Gorons)
+- Updated some special effects, such as the water ripple effect
+- Reworked Zora Link
+- Partially updated the Fisherman
+- Added a grass texture in the Lost Woods (Ocarina of Time)
+- Reworked all icons for Ocarina of Time and Majora's Mask
+- Added some more disc menu textures
+- Added more missing Magic Bar meters for area's in Ocarina of Time
+- Added icons and fonts for corrupted / debug textures (Majora's Fairy Ocarina, Majora's Hookshot, Bottle Items, etc)
+- Added unavailable icons for the Fairy Ocarina & 30/40/50-slot quivers (which you never see anyway)
+- Updated several textures for several areas which are shared among several areas
+- Reworked Lullaby Intro font
+- Added two backgrounds used during Granny's storytelling in the Stock Pot Inn
+- Reworked the paintings from the Phantom Ganon bossfight
+- Reworked and re-organized Deku Mask, Goron Mask, Zora Mask, Kafei's Mask & Captain's Hat
+- Reworked Elegy of Emptiness statues
+- Reworked water in several areas
+- Reworked 3 backgrounds for Ocarina of Time:
+	* One of Temple of Time area (Child Link at day)
+	* One Back Alley area (Child Link at day)
+	* Link's House (side-view)
+- Revised the following area's with upscaled textures:
+	* North Clock Town (and Deku Scrub Playground)
+	* South Clock Town (and Clock Tower)
+	* East Clock Town (and houses/shops)
+	* West Clock Town (and houses/shops)
+	* Termina Field (and grottos)
+	* Southern Swamp (and all subareas)
+	* Snowhead (and all subareas)
+	* Milk Road (and all subareas)
+	* Woodfall Temple
+- Reworked the Great Bay area:
+	* Oceanside Spider House
+	* Great Bay Coast
+	* Zora Cape
+	* Zora Hall
+	* Marine Research Laboratory
+	* Fisherman's Hut
+	* Pinnacle Rock
+	* Waterfall Rapids
+	* Pirate's Fortress (partially reworked)
+
+
+
+--- V2.7 ---
+- Clock HUD
+- Improve Clock Town
+- Romani Ranch
+- New Action Prompts (once again, OoT included)
+- Owl Statues & Wooden Boxes
+- Termina Field: Grass and Fields
+- Goron & Goron Link improvements
+- Them (Romani Ranch Aliens)
+- Grog (Master Craftsman's Son from Ocarina of Time as well, same model)
+- Romani & Cremia
+- Romani's Wagon Event (Not Finalized Yet)
+- Malon (Child & Adult)
+- Cucco Chicks
+- Slightly improved The Moon
+
+
+
+--- V2.6 ---
+- Fonts  (Redoing fonts to match the original art-style)
+	* Items
+	* Masks
+	* Equipment
+	* Quest
+	* Songs
+	* Ammo numbers
+	* Current position
+	* A button prompts
+	* Spanish text (made by CyberConan)
+	* Ocarina's dungeon titles
+	* Goth's boss title
+	* Sold Out text icon
+- File Select Menu 
+	* Matching PAL fonts with the original art-style already applied by Majora (English only currently)
+	* Choose a language menu for Ocarina of Time improved when booting for the first time (PAL)
+	* Choose a language menu for Majora's mask added when booting for the first time (PAL)
+- Title Menu
+	* Master Quest title name
+	* Corrected image size for title logo's (OoT, MQ & MM)
+	* Logo effects
+- Area's
+	* Snowhead Temple
+	* Final adjustments for Snowhead
+	* Iron door bars and lava in Dodongo's Cavern
+	* Added missing textures for Water Temple, Spirit Temple and Gerudo Training Ground.
+	* Darkness Night Skybox
+	* Skybox Transitions
+- HUD
+	* Larger button icons to match the original size
+	* Corrected image size for icons
+	* Replaced dungeon icons
+	* Replaced unavailable Fairy Bow icon
+	* Ocarina now uses the same rupee icon as Majora
+	* Missing mini-map for Water Temple
+- Effects
+	* Ice field shimmering
+	* Ice breath
+	* Burning torch flames
+	* Wizrobe effects
+	* Magic bar meter border for each area as Child Link and Adult Link (OoT)
+	* Crystal switch transparent glimmering effect in multiple area's (OoT)
+- Objects
+	* Wooden torches
+	* Boss key doors from behind
+	* Bomb flowers
+	* Pushable blocks (MM)
+	* Ice platform
+- Enemies
+	* White & black boos
+	* Freezard
+	* Small replacement for Odolwa
+	* Goth
+
+
+
+--- V2.5b ---
+- Added 3 missing textures in the DDS BC7 pack which were added for V2.5 (2 disc menu textures and a cape texture for Ganondorf).
+- Added Spanish mod for Ocarina of Time.
+- Added Spanish textures for Majora's Mask. Still incomplete.
+- Replaced some font textures, mostly related to Spanish.
+- Folder restructuring to organize language-related textures.
+	* Thanks to CyberConan for all the Spanish textures.
+
+
+
+--- V2.5 ---
+- Replaced missing parts for Hylian Link (eyes, nose, skin, etc)
+- Replaced Goron Link
+- Improved Clock HUD
+- Added German, French and Spanish font for text
+- Added menu textures for Ocarina of Time and Majora's Mask in multiple languages (PAL, VC). Spanish not included, Majora's Mask will remain unfinished in German and French
+- Fixed system font
+- Fixed Z-button and L-button in text
+- Replaced Magic Jars
+- Replaced Golden Torches
+- Replaced hearts meter once again
+- Add missing item descriptions for English
+- Replaced Last Hours clock
+- Replaced Gorons, Goron Child and Goron Elder
+- Placed textures in correct folders
+- Fixed Giant Bees
+- Added Quick save tab in the file menu
+- Added Majora's Mask Disc Menu Loading
+- Additional alternative textures
+- Replaced Snowhead
+	* Goron Racetrack
+	* Goron City
+	* Goron City Shop
+	* Snowhead Entrance
+	* Road to Snowhead Temple
+	* Snowhead Temple Entrance
+	* Mountain Village
+	* Road to Goron City
+	* Outside of Goron City
+	* Lens of Truth Cave
+	* Goron Graveyard
+	* Mountain Smithy
+	* Snowhead's Fairy Fountain
+	* Outdoor area's during Spring
+
+
+
+--- V2.4 ---
+- Epona Stamina Meter icons
+- A, B and Pause Button icons
+- C button icons
+- Life meter
+- Magic bar
+- Clock
+- Scrolling icon in the Bomber's Notebook
+- Camera display interface
+- Button prompts within texts
+- Replaced four text displays
+- Archery score icon
+- Clock counter/countdown icon
+- Updated the Woodfall Area (slight changes)
+- Replaced treeline of Termina
+- Updated day skybox (slight changes)
+- Replaced Ikana / Stone Tower pillars (you can see them on your way to Ikana from Termina Field)
+- Updated Termina Field grass planes
+- Replaced Skull Kid
+- Replaced the Swamp Spider House
+- Fixed transparency effect for the Crystal Switch
+- Replaced Skulltula / Bug dirt mounds, the alternative texture for it is removed
+- Replaced Spider Web
+
+
+
+--- V2.3 ---
+- Link's eyes have been replaced
+- The Mirror Shield has been replaced, using a Termina style rather than the Triforce
+- Replaced dungeon objects for Majora's Mask (no longer the Triforce theme)
+	* Golden Eye
+	* Jars
+	* Boss Warp
+	* Chests
+	* Doors
+	* Pushable Blocks
+- Slight adjustments to the Stay Fairy
+- The Tatl Text for the C-Up Button has been fixed
+- The Yellow Deku Flower has been replaced, now it is yellow!
+- Deku Link has a new look
+- The Dekus have been slightly improved, also within Ocarina of Time
+- Minimaps for the Southern Swamp, Milk Road, Ikana and Termina Field (Milk Road and Ikana are incomplete)
+- More Southern Swamp replacements
+	* Song Tablet where you learn the Song of Soaring
+	* Few parts of the Deku Shrine
+	* Swamp Shooting Gallery
+	* Tourist Information
+	* Magical Hags' Potion Shop
+	* Post-Odolwa Southern Swamp (bushes, smoke, etc)
+	* Woodfall Temple (Odolwa not included, but his room is)
+- Improved water
+
+
+
+--- V2.2 ---
+- Replaced Southern Swamp
+	* Tourist Information
+	* Deku Palace
+	* Woodfall
+	* Swamp Shooting Gallery
+	* Road to Southern Swamp
+	* Exterior of the Magic Hags' Potion Shop
+	* Woods of Mystery
+	* Woodfall Temple (incomplete)
+- Fixed issue with Goron Link (spikes and necklace)
+
+
+
+--- V2.1 ---
+- Replaced areas
+	* Romani Ranch (partially)
+	* Termina Field (partially)
+	* Ikana Canyon (partially)
+	* Road to Ikana (partially)
+	* Snowhead (partially)
+	* Road to Snowhead (partially)
+	* Southern Swamp (partially)
+	* Deku Palace (partially)
+	* Astral Observatory
+	* Remaining parts of Clock Town (such as Kafei's Hideout)
+- Replaced PERFECT text
+- Replaced beach and grass-field at Great Bay
+- Replaced Stray Fairies (both the character and interface)
+- Replaced skyboxes for day and night. The old skyboxes are available as optional textures
+- Updated world map once again, same style through
+- Replaced fonts for Majora's Mask specific songs, items, button actions and locations
+- Replaced fonts for when a new day arrives and boss introductions
+- Other small replacements and fixes
+- Improved DDS BC7 conversion thanks to Bighead's continued updates to his Custom Texture Tool (DDS BC7 should really be up to par with PNG by now)
+
+
+
+--- V2.0 ---
+- Redid the majority of Clock Town (Kafei's House and the Observatory are still missing)
+- Redid the map of Majora's Mask
+- Redid the menu screens of Majora's Mask
+- Redid Majora's Mask's exclusive bottle icons
+- Redid Termina Field partly
+- Redid the moon, it is supposed to be creepy once again
+- Removed duplicate textures
+- Replaced the minimap for Clock Town
+- Redid the Bomber's Notebook
+- Redid the Lost Woods introduction sequence for Majora's Mask
+
+
+
+--- V1.4 ---
+- Added Virtual Console textures for Majora's Mask, still not finished through
+- Added more disc menu textures such as saving messages, which are created from scratch
+- Converted all textures to DDS BC7 instead of DDS DTX1/5
+
+
+
+--- V1.3 ---
+- Finished Characters
+	* Ganondorf
+	* Adult Epona
+	* Ingo
+	* Talon
+	* Cursed Man
+	* Rauru
+	* Sabib
+	* Granny
+	* Sheik
+- Added Characters
+	* Nabooru
+	* Gorons (OoT)
+	* Darunia
+	* Zelda's Horse
+	* Ingo's Horse
+	* Fishing Pond Fish
+	* Horses
+	* Impa
+	* Pond Owner
+	* Royal Guard
+	* Deku Tree Sprout
+	* Adult Princess Ruto
+	* Adult Zelda
+	* King Zora
+- Added Special Effects
+	* Saria's Song
+	* Graveyard Blast
+	* Silver Rupee
+	* Fading Light
+	* Lens of Truth
+	* Fire Boosted Platforms
+	* Farore's Wind
+	* The Shadow Beast prior to the Shadow Temple
+	* Much more
+- Added Item Icons
+	* Unavailable Zelda's Letter
+	* Unavailable Odd Mushroom
+	* Unavailable 30 / 40 Slot Deku Bag
+- Finished Monsters
+	* Moblin
+	* Poe
+	* Dead Hand
+	* Stalfos
+	* Flying Tile
+	* Lizalfos
+- Added Monsters
+	* Bari
+	* Biri
+	* Parastic Tentacle
+	* Stinger
+	* Tailpasaran
+	* Flare Dancer
+	* Spike
+	* Armored Lizalfos
+	* Torch Slug
+- Added Bosses
+	* Barinade
+	* King Dodongo
+	* Morpha
+	* Volvagia
+	* Phantom Ganon
+- Finished boss Twinrova
+- Added current map locations for Zora's Domain (English)
+- Added remaining minimaps for Gerudo's Fortress, Fire Temple & Shadow Temple
+- Added Item Objects
+	* Deku Seed Bag
+	* Boomerang
+	* Iron Boots
+	* Bow, Pocket Cucco
+	* Zelda's Letter
+	* Fishing Rod
+	* Gerudo's Membership Card
+	* Megaton Hammer
+	* Hover Boots
+	* Mirror Shield reflection
+	* Silver/Golden Gauntlets
+	* Prescription
+	* Eyeball Frog
+	* Claim Check
+- Added Mask Objects
+	* Skull Mask
+	* Spooky Mask
+	* Keaton Mask
+	* Goron Mask
+	* Zora Mask
+	* Gerudo Mask
+- Finished Area's
+	* Hyrule Castle Courtyard Grounds
+	* Broken Drawbridge
+	* Temple of Time
+	* Sacred Realm
+	* Zora's Domain
+	* Lon Lon Ranch
+	* Kakariko Village
+	* Kakariko Graveyard
+	* Sun/Underground Cave
+	* Sacred Forest Meadow
+	* Death Mountain Trail & Crater
+	* Goron City
+	* Gerudo Valley & Fortress
+	* Haunted Wasteland
+	* Desert Colossus
+- Added Granny's Potion Shop
+- Finished Dungeons
+	* Inside the Deku Tree
+	* Dodongo's Cavern
+	* Inside Jabu-Jabu's Belly
+	* Ice Cavern
+	* Below the Well
+	* Gerudo's Training Ground
+	* Forest Temple
+	* Fire Temple
+	* Water Temple
+	* Shadow Temple
+	* Spirit Temple
+	* Inside Ganon's Castle
+- Added Ganon's Castle & Tower dungeon and the Final Boss sequence
+	* Ganon's Tower Boss Rooms
+	* Ganon's Broken Castle
+	* Tower
+	* Ganondorf
+	* Ganon
+	* The Final Boss Arena
+- Added facial animation for Adult Link
+- Redid Young Zelda's face
+- Swapped Master Sword item icons (the unavailable icon was used as the available icon and vice versa)
+- Transparency fixes as usual
+- Fixed non-loading textures and added textures for the optional upscaled backgrounds pack
+
+
+
+--- V1.2 ---
+- Added HD backgrounds for Dampe's House, Hyrule Castle Town Market at Day as Child Link, Zora Shop - Normal View and Lon Lon Ranch Stables - Normal View
+- Added HD skyboxes for Ganon's Tower and Hyrule Darkness at Day
+- Added the citizens in Hyrule Town
+- Added missing textures for the shops in Hyrule Town
+- Added the Guardhouse / Ghost Shop (same location, different time)
+- Added most of Talon
+- Added the citizens of Kakariko Village (including the Kid at the Graveyard)
+- Added missing textures for Kakariko Village and the Graveyard
+- Added and completed the citizens of Kokiri Forest (Skull Kid Flute, Saria, Fado, Shop Owner)
+- Added Ghoma Queen and Ghoma Larva
+- Added missing textures Ganondorf and his horse
+- Added missing textures for Hyrule Field
+- Added more missing special effects
+- Added missing textures in the Lost Woods (entrance to Goron City, rope), inside the Deku Tree Dungeon and Kokiri Forest
+- Added missing textures in the area outside of Ganon's Tower
+- Transparency fixes (as usual)
+- Removed the upscaled backgrounds which received a HD port. Includes Dampe's House and Hyrule Castle Town Market at Day as Child Link
+- Moved Zora Shop - Talk View background from the main pack into this optional pack
+- Added and upscaled (Point x8 of course) Lon Lon Ranch Stables - Top View and Temple of Time at Night as Adult Link
+
+
+
+---V1.1 ---
+- Added Tingle maps
+- Higher quality icons for event items
+- Added Pea Hat enemy
+- Added PERFECT text
+- Added Bomber's Notebook ingame and textboxes. Also added a missing texture in the Notebook menu
+- Added Ocarina of Time NTSC-U Virtual Console Intro Logo
+- Redid Cucco
+- Added Kamero
+- Added missing textures for Princess Zelda, Great Fairy, Happy Mask Salesman and Postman
+- Upscaled Deku Bubble Blast effect
+- Added more missing effects (including startup)
+- Added the missing FHeart Containers shown in the File Menu. Also added a missing empty heart icon during the intro
+- Added missing textures throughout Clock Town, Termina Field, the introduction and Romani Ranch
+- Transparency fixes as usual
+
+
+
+--- V1.0 ---
+- Finished the Milk Bar (Zora Band credits included)
+- Added missing textures
+	* Top of the Clock Tower
+	* Observatory
+	* Termina Field
+	* Woodfall Temple
+	* Termina world in general
+- Added At the Moon dungeon
+- Added characters
+	* Giants
+	* Anja at her wedding
+	* Great Faeries (OoT version also changed)
+	* Bomb Shop Lady
+	* Seagulls
+	* Evil Fish
+	* Seahorse
+	* Cucco
+	* Cursed Man
+	* Beaver Brothers
+	* The Fisherman
+	* Goron Elder & Child
+	* The Zora Band Members
+	* Great Bay Scientist
+	* Swamp Witches
+	* Monkeys
+	* Deku Salesman
+	* Keaton
+- Finished characters
+	* Major Dotour
+	* Gerudo Guard
+	* Gorons, Shooting Range man
+	* Skull Kid
+	* Great Bay Turtle
+	* Gorman
+	* Deku Princess
+- Added Great Bay area
+- A few texture replacments for Lon Lon Ranch and Great Bay
+- Completed Snowhead and Southern Swamp area's
+- Added more missing textures for the Disc Menu
+- Added Deku Nut Smoke Flash used by the Pirate mini-boss
+- Added more effects, mostly a lot of water
+- Fixed textures for Southern Swamp, Clock Town tower light, swamp water, spiderwebs and a lot more effects
+- All item icons with their labels should be ported, including disabled items for Fiercy Deity Link
+- Transparency fixes
+- Added minigame textures, for the Beaver's Minigame, Gorman Horserace and Swamp Shooting Gallery points
+- Added all missing minimaps (missed a few in Snowhead, Great Bay and Woodfall Temple)
+- Added missing fonts for the fourth day and credits
+- Added Japanse fonts (thank you tao!)
+- Added missing texture's for mask items, Pictobox, Great Fairy Sword and Hero's Bow
+- Completed the Octorok (big version), Deku Scrubs, Frog and Leever
+- Added Amon1995's version of the Master Sword as optional textures
+
+
+
+--- V0.10 ---
+- Alien monster added
+- Fixed glas windows
+- HUD symbols for archery, countdown and dojo
+- New textures for the Disc Menu
+- Changed Malon to Majora's Mask style in order to ensure Cremia and Romani have a healthy and fitting skin, clothing remains unchanged
+- New Characters
+	* Anju, Anju's Mother and Anju's Grandmother
+	* Bomb Shop Owners
+	* Bombers
+	* Carpenters
+	* Romani & Cremia
+	* Romani Chick Hermit
+	* Romani Racetrack Lady
+	* Guard Captain
+	* Dojo Master
+	* Dancers
+	* Cursed Man
+	* General & Curiosity Shop Owner
+	* Honey & Darling
+	* Jugglers
+	* Kafei's Mom
+	* The Mayor and his secretary
+	* Milkbar Owner
+	* The Gorman Brothers
+	* The Professor
+	* The Shooting Range Guy
+	* The Treasure Shop Girl
+	* Toto
+	* Mysterious Hand
+	* Scarecrow.
+- Fixed Characters
+	* Dog
+	* Banker
+	* Guard
+	* Postman
+	* Link
+- Added areas of Clock Town
+	* Bomb Shop
+	* Curiosity Shop
+	* Dojo
+	* General Store
+	* Honey & Darling's Shop
+	* Lottery
+	* Mayor's House
+	* Milk Bar
+	* Astral Observatory
+	* Post Office
+	* Shooting Gallery
+	* Stock Pot Inn
+	* Treasure Chest Shop
+	* Bomber's Hideout
+	* Deku Minigame
+	* West Clock Town
+	* East Clock Town
+	* North Clock Town
+	* South Clock Town
+- Added areas of Milk Road
+	* Main Road
+	* Gorman Racetrack
+	* Romani Ranch
+	* Romani's House
+	* Romani Barn
+	* Romani Chicken Coop
+	* Romani Dog Racetrack
+- Font for &
+- Amon1995's Ocarina of Time Medallions, thank you!
+- Removed duplicate textures
+- Placed textures in the proper folders en properly renamed folders for V0.7 support
+
+
+
+--- V0.9 ---
+- New item, equipment and quest icons with text label (no Razor Sword yet sadly)
+- Optional textures for the orginal icons
+- A lot of transparency fixes (new added textures are already checked for transparency issues)
+- Completing Ocarina of Time area's (Kakariko Village Windmill, Dampe's Hookshot Trail and Lon Lon Ranch)
+- Fixed effects (sun to prevent it to be broken in Majora's Mask, ice, rain drops, light drops and more)
+- Finished Ikana Canyon region
+	* Secret Shrine
+	* Beneath The Well
+	* Ghost Hut
+	* Ikana Graveyard (as well each underground cave)
+	* Music Box House
+	* Ancient Castle of Ikana
+	* Cursed Water Cave
+	* Fairy Fountain
+	* Sakon's Hideout.
+- A few parts for Clock Town
+	* Kafei's House (slightly)
+	* The Pond
+	* Outside of the Observatory
+- Finished Termina Field (including entrance area for Ikana Region)
+- A few parts and replacements for Southern Swamp
+	* Deku Palace
+	* The Bean Salesman Cave
+	* Outside of the Magical Hag's Potion Shop
+	* Woodfall
+- A few missing textures for the Blacksmith's Area in the Snowhead region
+- New monsters
+	* Bad Bat
+	* Big Poe
+	* Dodongo, Garo
+	* Iron Knuckle
+	* Takkuri
+	* Wallmaster
+- Fixed monsters
+	* Poe
+	* Stalchild
+	* Frog
+	* Wolfos
+- New characters
+	* Windmill Man
+	* Ingo
+	* Cows
+	* Dampe
+	* Bean Salesman
+	* Curioristy Show Owner
+	* Darmani
+	* Epona
+ 	* General Shop Part-Timer
+	* Pamela and her father
+	* Invisible Guard
+	* Poe Collector
+	* Zelda
+	* Sakon
+	* Sharp Brothers
+- Fixed characters
+	* Banker
+	* Blacksmiths
+	* Deku Salesman
+	* Happy Mask Salesman
+	* Malon
+	* Kafei
+	* Owl Statue.
+- More textures for Link
+- Normal health textures added
+- Added all minimaps
+- Save notifier texture added
+
+
+
+--- V0.85 ---
+- All four dungeons
+- All four dungeon entrance area's
+- Ikana Canyon
+- Remainder of the Notebook interface and fonts
+- About 50 characters and enemies
+- Some parts of Clock Town
+- The introduction before entering Termina
+- Fixed all minimaps, added more minimaps and all minimaps for the four dungeons
+- Transparency fixes
+- Higher quality icons for boots (thanks for masterotaku), arrows, Master Sword, Hylian Shield, Hero's Shield, Fishing Rod and Notebook
+- Textures for Majora Link, his masks and transformations
+- Effects for Majora such as Ice, Flames, Explosions, Water and so on
+- Added some missing icons for Majora's Mask
+- Added missing A button texts for Majora
+- Collectable fairies for each dungeon
+- The skybox for day and night
+- Higher quality drop icons for bombs, hearts, deku sticks and deku nuts
+
+
+
+--- V0.8 ---
+- A lot of additions to Majora's Mask textures (including up to the second area and temple), around 1100 textures
+- Improved arrow drop icons and other transparency fixes
+
+
+
+--- V0.7 (by masterotaku) ---
+- Higher resolution dungeon entrance in minimap (xBRZ x5 and manual edit)
+- Skull Kid textures in OOT
+- Dungeon map menu, dungeon names and icons (Admentus)
+- "é" letter
+- Optional nearest neighbor filtering for backgrounds as a separate download. High RAM quantity recommended
+- Higher resolution OOT and Master Quest logos
+- Corrected size of year at OOT and MM title screens
+- Master Quest disc menu with better logos and background effects
+- Corrected save menu transparency
+- More textures for Gerudo Valley, made by modifying and mixing existing ones
+- Underground Cave textures
+- Sun textures
+- HD Majora's Mask logo and titles in the title screen
+- Upgraded magic jar drop icons
+- Upgraded most item and mask icons, for both OOT and MM (almost everything from the wikis, Biggoron Sword from a deviantart user called "blueamnesiac")
+- Some places and characters retextured in Majora's Mask
+- Most of Majora's Mask HUD and UI. Missing Razor Sword icon and name for now
+- Boss names for MM
+
+
+
+--- V0.6 (by masterotaku) ---
+- Finished and fixed the minimaps of all dungeons
+- Sky textures (Bighead)
+- Added 2D backgrounds for the Bazaar and Bombchu Shop
+- Fixed texture clipping in the world map in the pause menu
+- Finished all boss name textures
+- Finished all item name textures
+- More textures for environments and characters
+- Fixed some small textures that weren't loading
+
+
+
+--- V0.5 (by masterotaku) ---
+- Added most remaining zones
+	* Gerudo Fortress
+	* Desert Colossus
+	* Death Mountain Crater
+	* The inside of some market buildings
+	* Some textures from other zones
+- Added a big texture to the Collector's Edition menu: the "comic strip" of Wind Waker, created using the separated images of the hypatia texture pack of Zelda WW
+- Other textures
+	* Interior of the Deku Shield
+	* Fairy Slingshot
+	* Fairy Ocarina
+	* Goron Bracelet
+	* More
+
+
+
+--- V0.4 patch 2 (by masterotaku) ---
+- All icons and names of Biggoron's Sword quest items
+- Finished all bottled items too
+- Added a pair of ice textures from Zora's Fountain
+- More Malon textures, and a few more characters added
+- Tweaked the fire effect, and added the red ice texture
+- Location names in the map and a pair of icons
+- Added one Master Sword texture that was missing
+
+
+
+--- V0.4 (by masterotaku) ---
+- Added more character and enemy textures
+	* Sheik
+	* Some missing textures for Ruto
+	* Beamos
+	* Deku Scrubs
+	* More
+- Poe sisters paintings in Forest Temple
+- Fixed Zora Domain
+	* Corrections for ground and water reflection
+	* Added waterfall
+- More item icons and names (hookshot, bullet bags, quivers and some bottled items)
+- Some non-dungeon minimaps that were missing
+- Bow and arrow textures
+- More bosses names, until Phantom Ganon
+- One texture of the permanently destructible tomb in the graveyard
+
+
+
+--- V0.3 (by masterotaku) ---
+- Retextured all remaining areas
+- Most character and enemy textures are done
+- Many fixes of missing or incorrectly placed textures
+
+
+
+--- V0.2 (by masterotaku) ---
+- Fixed some textures that I had placed incorrectly (adult Link's belt, fairy fountains, grass textures, etc)
+- Added missing textures to previous zones
+- Disc menu for Zelda CE PAL version (English and Spanish languages for now)
+- Added the Master Quest (PAL) disc menu to the main pack (Spanish only)
+- Updated logos for OOT and Master Quest
+- More zones
+	* Sun Cave
+	* Gerudo Valley and Fortress (the original texture pack only has a few textures for the Fortress)
+	* Haunted Wasteland
+	* Ganon's Castle (outside)
+	* Lon Lon Ranch
+	* Shadow Temple
+	* Bottom of the Well
+	* Dodongo's Cavern (WIP)
+
+
+
+--- V0.1 (by masterotaku) ---
+- Initial release
