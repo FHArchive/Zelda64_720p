@@ -12,18 +12,18 @@
 
 ## Credits
 Credit to Admentus for this awesome texture pack. Get the UHD version at
-https://forums.dolphin-emu.org/Thread-zelda-64-uhd-v4-3-2020-05-02.
+https://forums.dolphin-emu.org/Thread-zelda-64-uhd-v5-0-15-09-2020.
 
 
 ## Comparison
 
 |Texture Size|Texture Scale|Resolution |Size |URL|
 |:--         |------------:|:---------:|----:|:--|
-|4k          |           x8|1440p-4k   |6.82G|https://forums.dolphin-emu.org/Thread-zelda-64-uhd-v4-3-2020-05-02|
-|1440p (unofficial)|     x4| 720p-1440p| 701M|See Download Below|
-|1440pPNG (unofficial)|  x4| 720p-1440p| 654M|See Download Below|
-|720p (unofficial)|      x2|native-720p| 185M|See Download Below|
-|720pPNG (unofficial)|   x2|native-720p| 213M|See Download Below|
+|4k          |           x8|1440p-4k   |6.82G|https://forums.dolphin-emu.org/Thread-zelda-64-uhd-v5-0-15-09-2020|
+|1440p (unofficial)|     x4| 720p-1440p| 706M|See Download Below|
+|1440pPNG (unofficial)|  x4| 720p-1440p| 715M|See Download Below|
+|720p (unofficial)|      x2|native-720p| 205M|See Download Below|
+|720pPNG (unofficial)|   x2|native-720p| 218M|See Download Below|
 
 
 ## Installation
@@ -57,11 +57,11 @@ Download the pack from one of the links above
 
 #### 720p/1440p
 
-The best way to do this is probably to download `Zelda64_[720p/1440p].7z` from
+The best way to do this is probably to download `Zelda64_5_[720p/1440p].7z` from
 the releases
 
-1. Download `Zelda64_[720p/1440p].7z` from the releases
-2. Copy the `Zelda64_[720p/1440p]` Directory to
+1. Download `Zelda64_5_[720p/1440p].7z` from the releases
+2. Copy the `Zelda64_5_[720p/1440p]` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
 
@@ -72,11 +72,11 @@ Tested to title screen only. Best to use dds version if at all possible.
 
 #### 720p/1440p
 
-The best way to do this is probably to download `Zelda64_[720p/1440p]PNG.7z`
+The best way to do this is probably to download `Zelda64_5_[720p/1440p]PNG.7z`
 from the releases
 
-1. Download `Zelda64_[720p/1440p]PNG.7z` from the releases
-2. Copy the `Zelda64_[720p/1440p]PNG` Directory to
+1. Download `Zelda64_5_[720p/1440p]PNG.7z` from the releases
+2. Copy the `Zelda64_5_[720p/1440p]PNG` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
 
