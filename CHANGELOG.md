@@ -4,6 +4,125 @@ patch-level version changes can be found in [commit messages](../../commits/mast
 
 Versions are in the form: \[upstream_version\]_\[patch\]
 
+
+## 5.0_0 - 2020/09/12
+- Texture pack is now split up into modules to reduce the RAM and loading requirement
+- Fixed transparency for textures in several areas for Ocarina of Time
+- Updated fonts
+	- Fixed several boss titles in several languages (OoT, MQ & MM)
+	- Added missing special uppercase and punctuation characters
+	- Added Polish language support (OoT, MQ & MM)
+	- Added Chinese Simplified language support (OoT & MQ)
+	- Upscaled ammo numbers, Debug ROM number fractions and Redux numbers
+	- Fixed "The Legend of Zelda" credits not being completely shown
+- Reworked all backgrounds
+	- Replaced all 4:3 backgrounds with higher quality upscales
+	- Added upscaled 16:9 backgrounds for the 16:9 Texture patches (Patcher64+ Tool)
+	- Added missing textures when slamming yourself into walls in background areas (both 4:3 and 16:9)
+	- Added Master Quest logo for Master Quest mode (Patcher64+ Tool)
+	- Added The Missing Link logo (Patcher64+ Tool)
+- Updated interface
+	- D-Pad (Randomizer / Redux)
+	- Magic Spells icons
+	- Megaton Hammer icon
+	- Magic Jar icons
+	- Fairy Bow Magic Arrow icons
+- Updated items & objects
+	- Bottle effect
+	- Shop items (Deku Shield, Deku Nuts)
+	- Deku Shield & Hylian Shield
+	- Fairy Bow
+	- Goron Ruby
+	- Deku Mask
+	- Rupee colors (Patcher64+ Tool)
+	- Stone Mask
+	- Sun Switch
+	- Time Block
+	- Gauntlet Blocks
+	- Breakable Boulder
+	- Fish
+- Updated characters
+	- Navi / Tatl / Tael
+	- Great Deku Tree (again)
+	- Bugs
+	- Kafei (hair)
+	- Treasure Chest Shop Gal (hair)
+	- Deku Link
+	- Adult Link model (Patcher64+ Tool)
+	- Female Link models (Patcher64+ Tool)
+	- Gerudos / Pirates
+	- Threater Scrubs, Deku Salesman, Deku Butler, Deku King, Palace Scrub
+	- Fixed Zora eyes
+	- Cows
+- Updated monsters
+	- Lizalfos
+	- Dinolfos (OoT, MQ & MM)
+	- Deku Scrub, Mad Scrub, Business Scrub
+	- Giant Bees
+	- Iron Knuckle
+	- Shell Blade
+	- Skull Fish
+	- Wizrobe
+	- Guay
+	- Like-Like
+	- Flying Tile
+	- Octorok (upscales)
+- Updated areas
+	- Deku Shrine
+	- Pirate's Fortress
+	- Ikana Graveyard tombs
+	- Termina Field
+	- Great Bay (corrected some textures for Zora Cape)
+	- Lost Woods (corrected trees and pillars in Majora's Mask)
+	- Secret Shrine
+	- Sakon's Hideout
+	- Astral Observatory (tingle picture / wooden floor)
+	- Hyrule Field (Market wall, grass)
+	- Lon Lon Ranch (Fences)
+	- Kokiri Forest, Sacred Forest Meadow, Lost Woods (curtains Link's House & background trees, various upscales, grass, Temple entrance)
+	- Lake Hylia (Lakeside Laboratory, Fishing Pond)
+	- Gerudo Valley, Gerudo Fortress, Haunted Wasteland, Desert Colossus
+	- Kakariko Village, Kakariko Graveyard (various upscales, houses, background trees, Dampe's Shack, signpost, grass, Temple entrance)
+	- Temple of Time (Master Sword pedestal when traveling through time)
+	- Death Mountain Trail (falling rocks, various upscales)
+	- Zora's River (various upscales)
+	- Treasure Chest Shop, Bowling Alley, Shooting Gallery (various upscales)
+	- Great Fairy's Fountain
+	- Hidden Grottos
+	- Hyrule Castle Grounds, Hyrule Castle Courtyard, Guard House (door, walls, grass, misc)
+- Updated dungeons
+	- Great Bay Temple (steam effect in faucet room)
+	- Inside the Deku Tree (various upscales)
+	- Forest Temple
+	- Fire Temple (falling rocks during boss fight, various upscales)
+	- Shadow Temple (wooden bar upscale)
+	- Gerudo's Training Ground (rocks, water, lava)
+	- Spirit Temple (light source)
+	- Doors and door bars
+- Updated effects
+	- Ganon's Castle Barrier
+	- Din's Fire
+	- Fire
+	- Magic Arrows
+	- Water upstream
+	- Black Water
+	- Bomb fuse
+	- Explosions
+	- Water Splashes
+	- Added lava for the boss room in Dondongo's Cavern
+	- Lens of Truth
+	- Hyrule Courtyard transition
+	- Song of Soaring
+	- Damaged
+	- Flash
+	- Fire walls
+	- Wizzrobe explosion
+	- Flare Dancer fire
+	- Navi trails / Deku Nut flash
+	- Boss Warp Tile glow in Majora's Mask dungeons
+	- Virtual Console exclusive effects
+
+
 ## 4.3_0 - 2020/09/12
 - Updated several areas
 	- Death Mountain Trail
