@@ -1,3 +1,24 @@
+========================= No Longer Supported =========================
+
+**This project has reached the end of development and is no longer
+supported**
+
+A 1080p version is now available at (https://evilgames.eu/texture-packs/zelda-64-uhd.htm)
+
+## What this means now
+- The repository, issues, pull requests, labels, milestones, projects, wiki,
+releases, commits, tags, branches, reactions and comments are read-only.
+- The repository can still be forked and cloned - The License still applies.
+
+## What this means in the future
+- The repository is scheduled for deletion (the earliest date for this is
+[delete])
+- The repository will be unregistered from Codacy (the earliest date for this is
+[unregister])
+- The repository may be un-archived (however, this is very unlikely)
+
+========================= No Longer Supported =========================
+
 [![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Zelda64_720p.svg?style=for-the-badge)](../../)
 [![Issues](https://img.shields.io/github/issues/FredHappyface/Zelda64_720p.svg?style=for-the-badge)](../../issues)
 [![License](https://img.shields.io/github/license/FredHappyface/Zelda64_720p.svg?style=for-the-badge)](/LICENSE.md)
